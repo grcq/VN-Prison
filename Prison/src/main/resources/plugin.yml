@@ -1,0 +1,4 @@
+name: VN-Prison
+version: '${project.version}'
+main: gq.vantex.prison.Prison
+authors: [ Grcq ]
